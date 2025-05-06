@@ -6,5 +6,4 @@
 
 # Microsoft-SCCM-Highlights
 
-
-➜ Used Microsoft SCCM to manage system configurations across enterprise Windows environments.
+➜ Used Microsoft SCCM to manage system configurations, deploy software, and enforce compliance policies across enterprise Windows environments.
