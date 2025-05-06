@@ -6,4 +6,4 @@
 
 # Microsoft-SCCM-Highlights
 
-➜ Used Microsoft SCCM to manage system configurations, deploy software, and enforce compliance policies across enterprise Windows environments.
+➜ Managed IP address assignments and scope settings through Microsoft DHCP, supporting efficient and secure network operations.
