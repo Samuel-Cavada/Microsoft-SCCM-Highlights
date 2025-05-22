@@ -4,6 +4,10 @@
   </a>
 </p>
 
-# Microsoft-SCCM-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Microsoft-SCCM-Highlights/main/images/SCCM.png" alt="Microsoft SCCM Highlights" width="600">
+</p>
 
-➜ Managed IP address assignments and scope settings through Microsoft DHCP, supporting efficient and secure network operations.
+> This section should highlight experience using Microsoft SCCM for software deployment, patching, and endpoint management.
+
+- Managed software deployments, patch updates, and system configurations through Microsoft SCCM, streamlining IT operations and reducing manual workload.
